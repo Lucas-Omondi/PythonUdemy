@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a1ce11f-e48b-40c1-8a6e-4bda15af8535" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Ruby Class.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headings.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +64,7 @@
       <workItem from="1728624891624" duration="24000" />
       <workItem from="1728977968288" duration="137000" />
       <workItem from="1729015679434" duration="18000" />
-      <workItem from="1729059720837" duration="890000" />
+      <workItem from="1729059720837" duration="1964000" />
     </task>
     <servers />
   </component>
