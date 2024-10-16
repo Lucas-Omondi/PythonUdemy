@@ -9,7 +9,7 @@ if height >= 120:
     elif age < 18:
         cost += 7
     else:
-        cost += 12
+        cost += 13
         if age >= 45 and age <= 55:
             cost = 0
     photos = input("Woud you like photos taken? YES or NO: ") 
