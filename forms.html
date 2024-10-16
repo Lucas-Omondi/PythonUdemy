@@ -1,13 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title></title>
-</head>
+<html lang = "eng">
 <body>
-<form action="" method="post">Date Of Birth
-  <select name="course" id="course"></select>
+<form action = "" method = "post">
+    <label for = "Course">Course </label>
+    <select name = "course" id = "cours" required>
+        <option value = "ml">Machine Learning</option>
+        <option value = "ai">Artificial Intelligence</option>
+        <option value = "dj">Django</option>
+        <option value = "lar">Laravel</option>
+        <option value = "spr">SpringBoot</option>
+    </select><br><br>
+    <label for="name">Name</label>
+    <input type = "text" name = "name" id = "name" required><br><br>
+    <label for = "dob" >Date of Birth</label>
+    <input type = "date" name = "dob" id = "dob" required><br><br></br>
+    <label for="email">Email</label>
+    <input type = "email" name = "email" id = "email" required><br><br></br>
+    <label for = "pass">Password</label>
+    <input type = "password" name = "pass" id = "pass" required><br><br>
+    <label for = "confirm pass">Confirm Password</label>
+    <input type = "password" name = "confirm pass" id = "pass" required><br><br></br>
+    <input type = "submit" value = "Register">
+</br>
 </form>
-
 </body>
 </html>
